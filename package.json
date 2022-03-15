@@ -1,0 +1,24 @@
+{
+  "name": "fix-cors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentont240/fix-cors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brentont240/fix-cors/issues"
+  },
+  "homepage": "https://github.com/brentont240/fix-cors#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
